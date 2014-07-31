@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\OurScripts\Credit.cs">
+    <Files>
+      <File FileName="Assets\OurScripts\Credit.cs" Line="13" Column="25" />
+      <File FileName="Assets\OurScripts\Gui.cs" Line="1" Column="1" />
+      <File FileName="Assets\OurScripts\FlowerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\OurScripts\BacivanScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\OurScripts\CocukTriggeri.cs" Line="1" Column="1" />
+      <File FileName="Assets\OurScripts\DogGrap.cs" Line="1" Column="1" />
+      <File FileName="Assets\OurScripts\Firstscrren.cs" Line="1" Column="1" />
+      <File FileName="Assets\OurScripts\GraveYardCapture.cs" Line="1" Column="1" />
+      <File FileName="Assets\OurScripts\ChapterSelect.cs" Line="1" Column="1" />
+      <File FileName="Assets\OurScripts\Flowerkutucuk.cs" Line="1" Column="1" />
+      <File FileName="Assets\OurScripts\Finish.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

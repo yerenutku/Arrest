@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 041f41d3a3d4d1b49ad9c98e82273825
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - limitter: {instanceID: 0}
+  - spotcan: {instanceID: 0}
+  - directionlig: {fileID: 100000, guid: c0fedb67d034dda4e8f7a9dd3a347652, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
