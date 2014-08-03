@@ -10,13 +10,13 @@ Build edilmiş exe haline <a href="https://www.dropbox.com/home/Global%20Game%20
 
 **Developer Team - Geliştirici Ekip** <br>
 
-<strong>Tasarım ve Grafik</strong>
+<ins>Tasarım ve Grafik</ins><br>
 Eda Çağıl Çağlarırmak <br>
 Alp Erkmen UZUN<br>
-Kurgu ve Senaryo<br>
+<ins>Kurgu ve Senaryo</ins><br>
 Emre KIZILDAĞ<br>
 Özer ÖNDER<br>
-Geliştiriciler
+<ins>Geliştiriciler</ins>
 Andaç Temel<br> 
 Y. Eren UTKU (<a href="www.github.com/yerenutku">github.com/yerenutku</a>)<br>
 
