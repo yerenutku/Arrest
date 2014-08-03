@@ -16,7 +16,7 @@ Alp Erkmen UZUN<br>
 <ins>Kurgu ve Senaryo</ins><br>
 Emre KIZILDAĞ<br>
 Özer ÖNDER<br>
-<ins>Geliştiriciler</ins>
+<ins>Geliştiriciler</ins><br>
 Andaç Temel<br> 
 Y. Eren UTKU (<a href="www.github.com/yerenutku">github.com/yerenutku</a>)<br>
 
