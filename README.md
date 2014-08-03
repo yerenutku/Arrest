@@ -19,5 +19,5 @@ Emre KIZILDAĞ<br>
 Geliştiriciler
 Andaç Temel<br> 
 Y. Eren UTKU (<a href="www.github.com/yerenutku">github.com/yerenutku</a>)<br>
-</span>
+
 
