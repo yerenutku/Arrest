@@ -9,8 +9,8 @@ Build edilmiş exe haline <a href="https://www.dropbox.com/home/Global%20Game%20
 
 
 **Developer Team - Geliştirici Ekip** <br>
-<font color="yellow">tasarım abi</font>
-<span style="color:Red">Tasarım ve Grafik</span><br>
+
+<strong>Tasarım ve Grafik</strong>
 Eda Çağıl Çağlarırmak <br>
 Alp Erkmen UZUN<br>
 Kurgu ve Senaryo<br>
