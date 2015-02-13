@@ -1,6 +1,6 @@
 Arrest
 ======
-
+***GGJ Ege'14 En İyi Dördüncü Oyun
 <a href="http://globalgamejam.org/2014/jam-sites/ggj-ege">Global Game Jam 2014 Izmir/Turkey</a> 
 Dünya çapında düzenlenen bu etkinliğin İzmir ayağında, 48 saat içerisinde, etkinlik başlangıcına kadar oyun konusunu öğrenemediğiniz bu etkinlikte grubumuz ile Unity3D oyun motorunu kullanarak Arrest adında 2 boyutlu bir oyun yapmaya çalıştık.
 (Github javascript desede script dilimiz c#)
@@ -17,7 +17,7 @@ Alp Erkmen UZUN<br>
 Emre KIZILDAĞ<br>
 Özer ÖNDER<br>
 <ins>Geliştiriciler</ins><br>
-Andaç Temel<br> 
-Y. Eren UTKU (<a href="www.github.com/yerenutku">github.com/yerenutku</a>)<br>
+Andaç TEMEL<br> 
+Yusuf Eren UTKU<br>
 
 
