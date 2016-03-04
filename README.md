@@ -6,8 +6,6 @@ Oyun içi görüntüler ve detay için: <a href="http://globalgamejam.org/2014/g
 Dünya çapında düzenlenen etkinliğin İzmir ev sahipliğinde (<a href="http://globalgamejam.org/2014/jam-sites/ggj-ege">Global Game Jam Ege 2014</a>), 48 saat içerisinde, etkinlik başlangıcına kadar oyun konusunu öğrenemediğiniz bu etkinlikte grubumuz ile Unity3D oyun motorunu kullanarak Arrest adında 2 boyutlu bir oyun yapmaya çalıştık.
 (Github javascript desede script dilimiz c#)
 
-Build edilmiş exe haline <a href="https://www.dropbox.com/home/Global%20Game%20Jam%20Ege">burdan</a> ulaşabilirsiniz.
-
 
 **Developer Team - Geliştirici Ekip** <br>
 
